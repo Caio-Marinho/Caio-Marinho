@@ -1,5 +1,5 @@
 ### Hi there 👋
-Meu nome 
+Meu nome é Caio tenho 23 anos estudo Gestão da informação(UFPE) e Analise e Desenvolvimento de Sistemas(Senac) atualmento tenho meu foco na área de back-end e Dados com a linguagem python tenho conhecimento em SQL e python já fui monitor da disciplina de banco de dados e processamento da informação no curso de Gestão da informação.
 <!--
 **Caio-Marinho/Caio-Marinho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
