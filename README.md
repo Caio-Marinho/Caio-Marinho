@@ -2,11 +2,7 @@
 Meu nome é Caio tenho 23 anos estudo Gestão da informação(UFPE) e Analise e Desenvolvimento de Sistemas(Senac) atualmento tenho meu foco na área de back-end e Dados com a linguagem python tenho conhecimento em SQL e python já fui monitor da disciplina de banco de dados e processamento da informação no curso de Gestão da informação.
 
 ### Estou Aprendendo
-<picture>
- <source media="(prefers-color-scheme: dark)" srcset="YOUR-DARKMODE-IMAGE">
- <source media="(prefers-color-scheme: light)" srcset="YOUR-LIGHTMODE-IMAGE">
- <img alt="JAVASCRIPT" src="https://camo.githubusercontent.com/16bbe3c62e06c0099a8bd86816b7993b3eb49d8cd21eb74c7bff7db7dc3787b7/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f6a6176617363726970742f6a6176617363726970742d6f726967696e616c2e737667">
-</picture>
+<img height="70em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" target="_blank"/>
 <!--
 **Caio-Marinho/Caio-Marinho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
