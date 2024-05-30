@@ -2,7 +2,7 @@
 Meu nome é Caio tenho 23 anos estudo Gestão da informação(UFPE) e Analise e Desenvolvimento de Sistemas(Senac) atualmento tenho meu foco na área de back-end e Dados com a linguagem python tenho conhecimento em SQL e python já fui monitor da disciplina de banco de dados e processamento da informação no curso de Gestão da informação.
 
 ### Estou Aprendendo
-<img height="70em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" target="_blank"/>
+<img height="70em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" target="_blank"/> <img height="70em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" target="_blank"/> <img height="70em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" target="_blank"/> 
 
 ## Estou aprimorando meus conhecimentos em
 <img  height="70em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" target="_blank" /> <img  height="70em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original-wordmark.svg" target="_blank" /> <img  height="70em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" target="_blank"/> <img height="70em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" target="_blank" /> <img  height="70em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" target="_blank"/>
