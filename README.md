@@ -1,5 +1,5 @@
 ### Hi there 👋
-Meu nome é Caio tenho 23 anos estudo Gestão da informação(UFPE) e Analise e Desenvolvimento de Sistemas(Senac) atualmento tenho meu foco na área de back-end e Dados com a linguagem python tenho conhecimento em SQL e python já fui monitor da disciplina de banco de dados e processamento da informação no curso de Gestão da informação.
+Meu nome é Caio tenho 24 anos estudo Gestão da informação(UFPE) e Analise e Desenvolvimento de Sistemas(Senac) atualmento tenho meu foco na área de back-end e Dados com a linguagem Python onde tenho conhecimento junto com a linguagem SQL, também já fui monitor da disciplina de banco de dados onde se utilizou o banco PostgreSQL e processamento da informação que é uma disciplina introdutoria a programação com a linguagem Python no curso de Gestão da informação.
 
 ### Estou Aprendendo
 <img height="70em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" target="_blank"/> <img height="70em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" target="_blank"/> <img height="70em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" target="_blank"/> 
@@ -15,7 +15,8 @@ Meu nome é Caio tenho 23 anos estudo Gestão da informação(UFPE) e Analise e 
 
 <div>
 <a href = "mailto:kaigabriel12@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/caio-marinho-oliveira/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+<a href="https://www.linkedin.com/in/caio-marinho-oliveira/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/caio-marinho-oliveira/" target="_blank"><img src="https://img.shields.io/badge/-Discord?style=for-the-badge&logo=Discord&logoColor=puple&label=Discord" target="_blank"></a> 
 </div>
 
 <details>
