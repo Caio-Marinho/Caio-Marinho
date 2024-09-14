@@ -28,7 +28,7 @@ Github Stats ⚡
   <img  height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" target="_blank"/>
 </div>
 
-## Tenho conhecimento em
+## My Stack
 <div aling='left'>
   <img  height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" target="_blank" />
   <img  height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original-wordmark.svg" target="_blank" /> 
