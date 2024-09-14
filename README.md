@@ -24,11 +24,6 @@ Meu nome é Caio tenho 24 anos, Tecnologo em Analise e Desenvolvimento de Sistem
   <a href="#">![Github stats](https://github-readme-stats.vercel.app/api?username=Caio-Marinho&theme=blueberry&count_private=true&hide_border=true&line_height=20)</a>
   <a href="#">![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Caio-Marinho&layout=compact&theme=blueberry&count_private=true&hide_border=true)</a>
 </details>
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/Caio-Marinho/Caio-Marinho/output/snake.svg" alt="Snake animation" />
-
-###
 
 <!--
 **Caio-Marinho/Caio-Marinho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
