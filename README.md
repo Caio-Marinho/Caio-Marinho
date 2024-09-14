@@ -37,7 +37,7 @@ Tecnologo em Analise e Desenvolvimento de Sistemas(Faculdade Senac) e estudante 
   <img  height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" target="_blank"/> 
 </div>
 
- ## Connect with me:
+ ## Connect with me
 <div align="left">
   <a href = "mailto:kaigabriel12@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/caio-marinho-oliveira/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
