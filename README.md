@@ -1,14 +1,15 @@
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Ol%C3%A1%2C+Sou+Caio+Marinho)](https://git.io/typing-svg)
 ### Hi there 👋
-Meu nome é Caio tenho 24 anos, Tecnologo em Analise e Desenvolvimento de Sistemas(Faculdade Senac) e estudo Gestão da informação(UFPE) atualmento tenho meu foco na área de back-end e Dados, tenho foco de estudo na linguagem Python onde tenho conhecimento na linguagem SQL, também já fui monitor da disciplina de banco de dados onde se utilizou o banco PostgreSQL e processamento da informação que é uma disciplina introdutoria a programação com a linguagem Python no curso de Gestão da informação.
+Meu nome é Caio Tecnologo em Analise e Desenvolvimento de Sistemas(Faculdade Senac) e estudante de Gestão da informação(UFPE) atualmento tenho meu foco na área de back-end e Dados, tenho foco de estudo na linguagem Python onde tenho conhecimento na linguagem SQL, também já fui monitor da disciplina de banco de dados onde se utilizou o banco PostgreSQL e processamento da informação que é uma disciplina introdutoria a programação com a linguagem Python no curso de Gestão da informação.
 
 Github Stats ⚡
   
-<div>
-  <img src="https://github-readme-stats.vercel.app/api?username=Caio-Marinho&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Caio-Marinho&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=Caio-Marinho&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-  
-</div>
+<img src="https://github-readme-stats.vercel.app/api?username=Caio-Marinho&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Caio-Marinho&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+<img src="https://streak-stats.demolab.com?user=Caio-Marinho&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+
+
+###
 
 ###
 
