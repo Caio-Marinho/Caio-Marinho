@@ -18,10 +18,6 @@ Meu nome é Caio tenho 24 anos, Tecnologo em Analise e Desenvolvimento de Sistem
 <a href="https://www.linkedin.com/in/caio-marinho-oliveira/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
-
 <details>
   <summary>Github Stats ⚡</summary>
   
