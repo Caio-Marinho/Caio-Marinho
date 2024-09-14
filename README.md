@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Ol%C3%A1%2C+Sou+Caio+Marinho)](https://git.io/typing-svg)
-### Hi there 👋
-Meu nome é Caio Tecnologo em Analise e Desenvolvimento de Sistemas(Faculdade Senac) e estudante de Gestão da informação(UFPE) atualmento tenho meu foco na área de back-end e Dados, tenho foco de estudo na linguagem Python onde tenho conhecimento na linguagem SQL, também já fui monitor da disciplina de banco de dados onde se utilizou o banco PostgreSQL e processamento da informação que é uma disciplina introdutoria a programação com a linguagem Python no curso de Gestão da informação.
+
+Tecnologo em Analise e Desenvolvimento de Sistemas(Faculdade Senac) e estudante de Gestão da informação(UFPE) atualmento tenho meu foco na área de back-end e Dados, tenho foco de estudo na linguagem Python onde tenho conhecimento na linguagem SQL, também já fui monitor da disciplina de banco de dados onde se utilizou o banco PostgreSQL e processamento da informação que é uma disciplina introdutoria a programação com a linguagem Python no curso de Gestão da informação.
 
 Github Stats ⚡
   
