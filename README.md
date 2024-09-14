@@ -2,16 +2,11 @@
 
 Tecnologo em Analise e Desenvolvimento de Sistemas(Faculdade Senac) e estudante de Gestão da informação(UFPE) atualmento tenho meu foco na área de back-end e Dados, tenho foco de estudo na linguagem Python onde tenho conhecimento na linguagem SQL, também já fui monitor da disciplina de banco de dados onde se utilizou o banco PostgreSQL e processamento da informação que é uma disciplina introdutoria a programação com a linguagem Python no curso de Gestão da informação.
 
-Github Stats ⚡
+## Github Stats ⚡
   
 <img src="https://github-readme-stats.vercel.app/api?username=Caio-Marinho&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Caio-Marinho&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 <img src="https://streak-stats.demolab.com?user=Caio-Marinho&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-
-
-###
-
-###
 
 ### Estou Aprendendo
 <div aling='left'>
@@ -44,9 +39,8 @@ Github Stats ⚡
 
  ## Connect with me:
 <div align="left">
-  <a href = "mailto:kaigabriel12@gmail.com"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  /></a>
-  <a href="https://www.instagram.com/caio_gmarinho/" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  /></a>
-  <a href="https://www.linkedin.com/in/caio-marinho-oliveira/" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  /></a>
+  <a href = "mailto:kaigabriel12@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/caio-marinho-oliveira/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
 ###
