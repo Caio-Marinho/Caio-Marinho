@@ -3,11 +3,13 @@
 Tecnologo em Analise e Desenvolvimento de Sistemas(Faculdade Senac) e estudante de Gestão da informação(UFPE) atualmento tenho meu foco na área de back-end e Dados, tenho foco de estudo na linguagem Python onde tenho conhecimento na linguagem SQL, também já fui monitor da disciplina de banco de dados onde se utilizou o banco PostgreSQL e processamento da informação que é uma disciplina introdutoria a programação com a linguagem Python no curso de Gestão da informação.
 
 ## Github Stats ⚡
-  
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Caio-Marinho&show_icons=true&theme=transparent)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Caio-Marinho&langs_count=32)
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Caio-Marinho&theme=transparent" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Caio-Marinho&layout=compact&langs_count=8&card_width=320&theme=transparent" />
+</a>
 <img src="https://streak-stats.demolab.com?user=Caio-Marinho&locale=en&mode=daily&theme=transparent&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-
 ### Estou Aprendendo
 <div aling='left'>
   <img height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" target="_blank"/>
