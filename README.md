@@ -10,6 +10,7 @@ Tecnologo em Analise e Desenvolvimento de Sistemas(Faculdade Senac) e estudante 
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Caio-Marinho&layout=compact&langs_count=8&card_width=320&theme=transparent" />
 </a>
 <img src="https://streak-stats.demolab.com?user=Caio-Marinho&locale=en&mode=daily&theme=transparent&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+
 ### Estou Aprendendo
 <div aling='left'>
   <img height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" target="_blank"/>
