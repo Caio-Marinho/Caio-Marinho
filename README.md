@@ -11,14 +11,14 @@ Tecnologo em Analise e Desenvolvimento de Sistemas(Faculdade Senac) e estudante 
 </a>
 <img src="https://streak-stats.demolab.com?user=Caio-Marinho&locale=en&mode=daily&theme=transparent&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
 
-### Estou Aprendendo
+### Learning
 <div aling='left'>
   <img height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" target="_blank"/>
   <img height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" target="_blank"/> 
   <img height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" target="_blank"/>
 </div> 
 
-## Estou aprimorando meus conhecimentos em
+## Improving Knowledge
 <div aling='left'>
   <img  height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" target="_blank" /> 
   <img  height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original-wordmark.svg" target="_blank" /> 
