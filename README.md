@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Ol%C3%A1%2C+Sou+Caio+Marinho)](https://git.io/typing-svg)
 
-Tecnologo em Analise e Desenvolvimento de Sistemas(Faculdade Senac) e estudante de Gestão da informação(UFPE) atualmento tenho meu foco na área de back-end e Dados, tenho foco de estudo na linguagem Python onde tenho conhecimento na linguagem SQL, também já fui monitor da disciplina de banco de dados onde se utilizou o banco PostgreSQL e processamento da informação que é uma disciplina introdutoria a programação com a linguagem Python no curso de Gestão da informação.
+Tecnologo em Analise e Desenvolvimento de Sistemas(Faculdade Senac) e estudante de Gestão da informação(UFPE) atualmento tenho meu foco na área de back-end e Dados, tenho foco de estudo na linguagem Python e na linguagem SQL, também já fui monitor da disciplina de banco de dados onde se utilizou o banco PostgreSQL e processamento da informação que é uma disciplina introdutoria a programação com a linguagem Python no curso de Gestão da informação.
 
 ## Github Stats ⚡
 <a href="https://github.com/anuraghazra/github-readme-stats">
@@ -10,16 +10,17 @@ Tecnologo em Analise e Desenvolvimento de Sistemas(Faculdade Senac) e estudante 
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Caio-Marinho&layout=compact&langs_count=8&card_width=320&theme=transparent" />
 </a>
 <img src="https://streak-stats.demolab.com?user=Caio-Marinho&locale=en&mode=daily&theme=transparent&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+<img src="https://github-contributor-stats.vercel.app/api?username=Caio-Marinho&limit=5&theme=transparent&combine_all_yearly_contributions=true" />
 
 ### Learning
-<div aling='left'>
+<div>
   <img height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" target="_blank"/>
   <img height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" target="_blank"/> 
   <img height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" target="_blank"/>
 </div> 
 
 ## Improving Knowledge
-<div aling='left'>
+<div>
   <img  height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" target="_blank" /> 
   <img  height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original-wordmark.svg" target="_blank" /> 
   <img  height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" target="_blank"/> 
@@ -28,7 +29,7 @@ Tecnologo em Analise e Desenvolvimento de Sistemas(Faculdade Senac) e estudante 
 </div>
 
 ## My Stack
-<div aling='left'>
+<div>
   <img  height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" target="_blank" />
   <img  height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original-wordmark.svg" target="_blank" /> 
   <img  height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" target="_blank" /> 
