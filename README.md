@@ -54,7 +54,8 @@ Tecnologo em Analise e Desenvolvimento de Sistemas(Faculdade Senac) e estudante 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Caio-Marinho&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mari4souza/mari4souza/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mari4souza/mari4souza/output/github-contribution-grid-snake-dark.svg ">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mari4souza/mari4souza/output/github-contribution-grid-snake-light.svg">
   <img src="https://raw.githubusercontent.com/Caio-Marinho/Caio-Marinho/output/snake.svg" alt="Snake animation" />
 </picture>
 <br><br>
