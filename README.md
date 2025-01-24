@@ -9,9 +9,6 @@ Tecnólogo em Analise e Desenvolvimento de Sistemas(Faculdade Senac) e estudante
 <a href="https://github.com/anuraghazra/convoychat">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Caio-Marinho&layout=compact&langs_count=8&card_width=320&theme=transparent" />
 </a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Caio-Marinho" />
-</a>
 <img src="https://streak-stats.demolab.com?user=Caio-Marinho&locale=en&mode=daily&theme=transparent&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
 <img src="https://github-contributor-stats.vercel.app/api?username=Caio-Marinho&limit=5&theme=transparent&combine_all_yearly_contributions=true" />
 
